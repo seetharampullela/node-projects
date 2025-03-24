@@ -10,3 +10,8 @@ This is a new fullstack project based on node as backend and react as frontend
 3. uses es modulejs for imports and all instead of commonjs
    for this added "type": "module" in package.json file
 4. using nodemon for live running of the server. we can also use watch cmd for it.
+
+FrontEnd:
+
+1. npm create vite@latest .
+2. npm i @chakra-ui/react @emotion/react
