@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx nodemon backend/server.js"
+    "dev": "npx nodemon server.js"
   },
   "keywords": [],
   "author": "sai-seetharam-pavan-kumar-pullela",
